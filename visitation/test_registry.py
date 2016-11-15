@@ -6,6 +6,10 @@ import fund
 Registry = registry.Registry
 Fund = fund.Fund
 
+
+Registry = registry.Registry
+Fund = fund.Fund
+
 class RegistryTestCase(unittest.TestCase):
 
     def test_type(self):

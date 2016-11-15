@@ -1,2 +1,2 @@
 
-class Organisation: pass
+class Organisation(object): pass
